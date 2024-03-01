@@ -1,4 +1,4 @@
-# OpenAI plug-in for Solar Mini
+# Solar Mini Translate Plug-in for OmegaT
 
 This plugin enables users to use machine translation provided by Solar in OmegaT CAT environment. It supports translation only between Korean and English (both Korean to English and English to Korean).
 
